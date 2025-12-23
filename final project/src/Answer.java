@@ -1,3 +1,5 @@
-// 中文註解：Answer 為抽象類別，代表一題的答案。具體答案類別（如 ChoiceAnswer、TextAnswer）應繼承此類別以統一處理。
-public abstract class Answer {
-}
+// 檔案路徑註記：原始檔案路徑說明
+// 中文：此檔案定義答案的抽象類別，用來代表各種答案類別的共同型別。
+// 檔案：Answer.java；說明：定義答案的抽象類別
+public abstract class Answer { // 抽象答案類別開始
+} // 抽象答案類別結束
